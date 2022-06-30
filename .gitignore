@@ -8,3 +8,5 @@ UserSettings/
 *.sln
 *.csproj
 *.DS_Store
+*.doc
+*.docx
