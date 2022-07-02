@@ -1,6 +1,6 @@
 ## About this repository
 
-Here are tutorials, samples, and documentation about published Arcspark packages.
+Here are tutorials, documentation and samples about published Arcspark packages.
 
 ## Catalogue
 
